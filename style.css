@@ -1,0 +1,25 @@
+.signal { 
+    height: 70px;
+    width: 70px; 
+    margin: 10px; 
+    border:3px solid black;
+    
+}
+
+
+.yellow { 
+    background-color: yellow; 
+    border:3px solid black;
+}
+
+
+.green {
+    background-color: green; 
+    border:3px solid black;
+}
+
+.red { 
+    background-color: red
+    
+    ; 
+}
